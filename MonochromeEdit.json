@@ -60,9 +60,9 @@
     "HEADER_SECONDARY": ["#FFFFFF"],
     "INPUT_BACKGROUND": ["#000000"],
     "INPUT_PLACEHOLDER_TEXT": ["#FFFFFF0D"],
-    "INTERACTIVE_ACTIVE": ["#FFFFFF0D"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
     "INTERACTIVE_HOVER": ["#FFFFFF0D"],
-    "INTERACTIVE_MUTED": ["#646464"],
+    "INTERACTIVE_MUTED": ["#323232"],
     "INTERACTIVE_NORMAL": ["#FFFFFF"],
     "MODAL_BACKGROUND": ["#000000"],
     "MODAL_FOOTER_BACKGROUND": ["#000000"],
@@ -140,7 +140,7 @@
   },
   
   "background": {
-    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Monochrome/Assets/Black_Deer.jpg",
+    "url": "https://raw.githubusercontent.com/zntly/MonochromeEdit/main/blackbg.png",
     "alpha": 0.69
   },
   "spec": 2
